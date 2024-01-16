@@ -98,7 +98,7 @@ const Text = () => {
           <div className="flex justify-center flex-col items-center">
             <img src={logo} alt="Logo" className="mb-4 h-8 w-8" />
             <h1 className="text-3xl font-bold mb-4 text-center text-blue-900">
-              Text Flow
+              Syntax Sphere
             </h1>
           </div>
           <button
